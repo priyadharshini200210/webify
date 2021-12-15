@@ -1,0 +1,101 @@
+body{
+	font-family: sans-serif;
+}
+.header1 img {
+  float: left;
+  width: 20px;
+  height: 20px;
+  background: #555;
+}
+
+.header1 h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+  margin-top: 0px;
+}
+.header{
+	text-align:right;
+	background-color: green;
+	padding:30px;
+	font-family:sans-serif;
+
+}
+.header a{
+	text-decoration: none;
+	color:white;
+	margin-right: 10px;
+	padding:20px;
+	border-radius: 10px;
+}
+.header a:hover{
+	background-color: gray;
+}
+.header1{
+float:left;
+width:10px;
+
+}
+.login{
+    border:2px solid green;
+    width:30%;
+    text-align: center;
+    margin:0% 35% 0% 33%;
+    padding:20px;  
+}
+a{
+	text-decoration: none;
+}
+.forget{
+	text-align: center;
+	border:2px solid green;
+	width:50%;
+	margin:5% 25% 0% 21%;
+	padding: 50px;
+}
+.forget-a{
+	background-color: green;
+	border-radius: 4px;
+	padding:5px;
+	color: white; 
+}
+ footer {
+            position: fixed;
+            padding: 10px 10px 0px 10px;
+            bottom: 0;
+            width: 100%; 
+            height: 40px;
+            background: grey;
+            margin: 30% 0px 0px 0px;
+            text-align: center;
+            color: black;
+        }
+.signup{
+	border:2px solid green;
+    width:30%;
+    text-align: center;
+    margin:0% 35% 0% 33%;
+    padding:20px; 
+}
+.signup{
+	
+	border:2px solid green;
+    width:30%;
+    text-align: center;
+    margin:0% 35% 0% 33%;
+    padding:20px; 
+}
+#course{
+
+	text-align: center;
+	border-radius: 2px;
+	border:2px solid black;
+	padding:2px;
+}
+.course{
+
+	text-align: center;
+	border-radius: 2px;
+	border:2px solid black;
+	padding:2px;
+}
